@@ -89,7 +89,7 @@ pip install -r requirements.txt
 ```
 
 ## Repo Files Description
-Docs - This folder containing all the documents provided for this assignment
-faiss_nomic_index - The vector store stored locally to input the model.
-Data_preparation - Its the ipython notebook file contains the preprocessing stages invloved to create the vector database.
-chat.py - Is the python file to run the chatbot system
+- ** Docs - This folder containing all the documents provided for this assignment
+- ** faiss_nomic_index - The vector store stored locally to input the model.
+- ** Data_preparation - Its the ipython notebook file contains the preprocessing stages invloved to create the vector database.
+- ** chat.py - Is the python file to run the chatbot system
